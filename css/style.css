@@ -118,3 +118,13 @@ footer{
         width: 2.5rem;
     }
 }
+
+.message{
+    background: #d8a22b;
+    min-height: 1.5em;
+    margin: 0.25rem 0 0.75rem;
+}
+
+input.invalid{
+    border: 2px solid #b3261e;
+}
